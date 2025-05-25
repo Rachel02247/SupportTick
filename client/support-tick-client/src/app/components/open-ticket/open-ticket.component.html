@@ -1,0 +1,35 @@
+<mat-card appearance="outlined">
+  <mat-card-header>
+    add new ticket
+  </mat-card-header>
+  <mat-card-content>
+
+    <form [formGroup]="form" (ngSubmit)="submit()" style="display: flex; ">
+      <mat-form-field appearance="fill">
+        <mat-label>Your name</mat-label>
+        <input formControlName="name" matInput>
+      </mat-form-field>
+
+
+      <mat-form-field appearance="fill">
+        <mat-label>Enter your email</mat-label>
+        <input formControlName="email" matInput placeholder="pat@example.com" (blur)="updateErrorMessage()" required />
+
+        @if(email.invalid){
+        <mat-error>{{ errorMessage() }}</mat-error>
+        }
+      </mat-form-field>
+
+      <mat-form-field>
+        <mat-label>problem summary</mat-label>
+        <textarea formControlName="description" matInput></textarea>
+      </mat-form-field>
+
+      <input type="file" class="file-upload" onchange="uploadFile(event.target.files)">
+
+
+      <button type="submit">submit</button>
+    </form>
+
+  </mat-card-content>
+</mat-card>

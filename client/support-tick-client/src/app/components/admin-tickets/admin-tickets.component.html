@@ -1,0 +1,14 @@
+<mat-list>
+
+  <mat-divider></mat-divider>
+  <div mat-subheader>Tickets</div>
+  @for (ticket of tickets; track ticket) {
+    <mat-list-item>
+      <mat-icon matListItemIcon>ticket</mat-icon>
+      <div matListItemTitle>{{ticket.fullName}}</div>
+      <div matListItemLine>{{ticket.description}}</div>
+
+      <button onclick="openTicket(ticket.ticketId)">more >>></button>
+    </mat-list-item>
+  }
+</mat-list>

@@ -1,0 +1,60 @@
+# .NET build files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio cache
+.vs/
+.vscode/
+
+# Build results
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Environment files
+.env
+.env.*
+
+# Rider IDE
+.idea/
+
+# DotCover
+.idea/.idea.DotSettings
+
+# Local test results
+TestResults/
+
+# Others
+*.db
+*.sqlite
+*.bak
+*.tmp
+*.log
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Mac OS
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
