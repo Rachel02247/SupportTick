@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SQLINK\\server\\SupportTick\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|d:\\sqlink\\server\\supporttick\\services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\services\\service\\gmailauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:services\\service\\gmailauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\services\\service\\gmailsendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:services\\service\\gmailsendservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\services\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:services\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\models\\configuration\\googleauthsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:models\\configuration\\googleauthsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\google.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:google.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\supporttick.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:supporttick.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\services\\service\\ticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:services\\service\\ticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\modules\\authmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:modules\\authmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\modules\\ticketmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:modules\\ticketmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\services\\interface\\iticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:services\\interface\\iticketsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\models\\ticketsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:models\\ticketsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\dataaccess\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:dataaccess\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\dataaccess\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:dataaccess\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\models\\response\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:models\\response\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|D:\\SQLINK\\server\\SupportTick\\models\\request\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3BCC24-04B4-491B-83AE-B27DDF058F9C}|SupportTick.csproj|solutionrelative:models\\request\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GmailSendService.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Services\\service\\GmailSendService.cs",
+              "RelativeDocumentMoniker": "Services\\service\\GmailSendService.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Services\\service\\GmailSendService.cs",
+              "RelativeToolTip": "Services\\service\\GmailSendService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAWwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:20:09.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "google.json",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\google.json",
+              "RelativeDocumentMoniker": "google.json",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\google.json",
+              "RelativeToolTip": "google.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T14:14:12.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoogleAuthSettings.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Models\\Configuration\\GoogleAuthSettings.cs",
+              "RelativeDocumentMoniker": "Models\\Configuration\\GoogleAuthSettings.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Models\\Configuration\\GoogleAuthSettings.cs",
+              "RelativeToolTip": "Models\\Configuration\\GoogleAuthSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:12:40.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-25T12:51:03.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GmailAuthService.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Services\\service\\GmailAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\service\\GmailAuthService.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Services\\service\\GmailAuthService.cs",
+              "RelativeToolTip": "Services\\service\\GmailAuthService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:43:25.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SupportTick",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\SupportTick.csproj",
+              "RelativeDocumentMoniker": "SupportTick.csproj",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\SupportTick.csproj",
+              "RelativeToolTip": "SupportTick.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T12:02:11.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:55:36.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Services\\service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\service\\AuthService.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Services\\service\\AuthService.cs",
+              "RelativeToolTip": "Services\\service\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:42:07.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Services\\service\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\service\\UserService.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Services\\service\\UserService.cs",
+              "RelativeToolTip": "Services\\service\\UserService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:46:17.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITicketsService.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Services\\interface\\ITicketsService.cs",
+              "RelativeDocumentMoniker": "Services\\interface\\ITicketsService.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Services\\interface\\ITicketsService.cs",
+              "RelativeToolTip": "Services\\interface\\ITicketsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:42:32.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "Models\\Status.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Models\\Status.cs",
+              "RelativeToolTip": "Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:58:13.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TicketsService.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Services\\service\\TicketsService.cs",
+              "RelativeDocumentMoniker": "Services\\service\\TicketsService.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Services\\service\\TicketsService.cs",
+              "RelativeToolTip": "Services\\service\\TicketsService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:42:12.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T10:26:06.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Services\\interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\interface\\IAuthService.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Services\\interface\\IAuthService.cs",
+              "RelativeToolTip": "Services\\interface\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:42:25.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Services\\interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\interface\\IUserService.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Services\\interface\\IUserService.cs",
+              "RelativeToolTip": "Services\\interface\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:46:29.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthModule.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Modules\\AuthModule.cs",
+              "RelativeDocumentMoniker": "Modules\\AuthModule.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Modules\\AuthModule.cs",
+              "RelativeToolTip": "Modules\\AuthModule.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:41:39.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TicketModule.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Modules\\TicketModule.cs",
+              "RelativeDocumentMoniker": "Modules\\TicketModule.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Modules\\TicketModule.cs",
+              "RelativeToolTip": "Modules\\TicketModule.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:54:59.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:55:34.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\DataAccess\\DataContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DataContext.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\DataAccess\\DataContext.cs",
+              "RelativeToolTip": "DataAccess\\DataContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAEwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:54:21.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:42:37.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDataContext.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\DataAccess\\IDataContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\IDataContext.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\DataAccess\\IDataContext.cs",
+              "RelativeToolTip": "DataAccess\\IDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:17:43.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "data.json",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\data.json",
+              "RelativeDocumentMoniker": "data.json",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\data.json",
+              "RelativeToolTip": "data.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T09:50:53.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TicketsDTO.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Models\\TicketsDTO.cs",
+              "RelativeDocumentMoniker": "Models\\TicketsDTO.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Models\\TicketsDTO.cs",
+              "RelativeToolTip": "Models\\TicketsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:22:37.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Models\\response\\Auth.cs",
+              "RelativeDocumentMoniker": "Models\\response\\Auth.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Models\\response\\Auth.cs",
+              "RelativeToolTip": "Models\\response\\Auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:44:37.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "D:\\SQLINK\\server\\SupportTick\\Models\\request\\Auth.cs",
+              "RelativeDocumentMoniker": "Models\\request\\Auth.cs",
+              "ToolTip": "D:\\SQLINK\\server\\SupportTick\\Models\\request\\Auth.cs",
+              "RelativeToolTip": "Models\\request\\Auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:43:36.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
